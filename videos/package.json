@@ -28,8 +28,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "dependencies": {
-    "lodash.template": ">=4.5.0"
   }
 }
